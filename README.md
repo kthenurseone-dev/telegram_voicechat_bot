@@ -28,7 +28,7 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 
 
 ## Installation
-1) Get dextool link of group
+1) Get link of group
 2) Start voice chat on group
 3) Get licence from [@kthenurseone](https://t.me/kthenurseone)
 4) And run the bot.
